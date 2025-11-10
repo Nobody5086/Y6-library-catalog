@@ -167,12 +167,12 @@
         // ====================================================================================
         // !!! IMPORTANT: FIREBASE CONFIGURATION FOR DEPLOYMENT !!!
         const firebaseConfig = {
-            apiKey: "AIzaSyAULdumrumJJc2U0DSf_wxbs_Kgw2LzhdM",
-            authDomain: "y6librarycatalog.firebaseapp.com",
-            projectId: "y6librarycatalog",
-            storageBucket: "y6librarycatalog.appspot.com",
-            messagingSenderId: "255821209296",
-            appId: "1:255821209296:web:a0944d05f7ff7a9e4f88d5"
+          apiKey: "AIzaSyAULdumrumJJc2U0DSf_wxbs_Kgw2LzhdM",
+          authDomain: "y6librarycatalog.firebaseapp.com",
+          projectId: "y6librarycatalog",
+          storageBucket: "y6librarycatalog.firebasestorage.app",
+          messagingSenderId: "255821209296",
+          appId: "1:255821209296:web:a0944d05f7ff7a9e4f88d5"
         };
         // ====================================================================================
         // Use the projectId for Firestore path
